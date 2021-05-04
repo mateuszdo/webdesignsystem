@@ -13,6 +13,20 @@
     margin: 20px auto;
     padding:30px;
 }
+/* h3 and p tags centered and styled */
+.color h3 {
+    background-color: transparent;
+    color: gray;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.color p {
+    background-color: transparent;
+    color: gray;
+    text-align: center;
+}
+/* color divs */
 .lightcyan {
     background-color:lightcyan;
     width: 80;
