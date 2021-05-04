@@ -1,7 +1,15 @@
+/*reset*/
 * {
    box-sizing: border-box;
    margin: 0;
    padding: 0;
    color: white;
    background-color: #595959 ; 
+}
+/* same style for each section */
+.color, .fonts, .text-styles {
+    border: 3px solid gray;
+    width:80%;
+    margin: 20px auto;
+    padding:30px;
 }
