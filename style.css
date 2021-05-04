@@ -13,3 +13,32 @@
     margin: 20px auto;
     padding:30px;
 }
+.lightcyan {
+    background-color:lightcyan;
+    width: 80;
+    height: 100px;
+    border: 5px solid white;
+    margin: 10px;
+}
+.lightcoral {
+    background-color:lightcoral;
+    width: 80;
+    height: 100px;
+    border: 5px solid white;
+    margin: 10px;
+}
+.darksalmon {
+    background-color:darksalmon;
+    width: 80;
+    height: 100px;
+    border: 5px solid white;
+    margin: 10px;
+}
+.darkseagreen {
+    background-color:darkseagreen;
+    width: 80;
+    height: 100px;
+    border: 5px solid white;
+    margin: 10px;
+
+}
