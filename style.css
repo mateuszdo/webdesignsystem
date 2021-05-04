@@ -13,6 +13,15 @@
     margin: 20px auto;
     padding:30px;
 }
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
 /* h3 and p tags centered and styled */
 .color h3 {
     background-color: transparent;
