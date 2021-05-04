@@ -65,3 +65,19 @@ h2 {
     margin: 10px;
 
 }
+/* fonts applied to the fonts section */ 
+.lato {
+    font-family: Lato;
+    text-align: center;
+}
+
+.karantina {
+    font-family: Karantina;
+    text-align: center;
+    
+}
+
+.rubik {
+    font-family: Rubik;
+    text-align: center;
+}
