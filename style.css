@@ -84,3 +84,20 @@ h2 {
 .heavy {
     font-weight: bold;
 }
+/* text styles section inline block and styles */
+.heading {
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    margin: 20px 0 0px 70px;
+    padding-top: 60px;
+}
+.heading-font {
+    font-size: 28px;
+}
+.heading-list-font {
+    font-size: 20px;
+}
+.subheading-font {
+    font-size: 28px;
+}
