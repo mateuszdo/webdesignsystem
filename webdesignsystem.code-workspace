@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../excursion"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../fotomatic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fotomatic"
+	}
+}
